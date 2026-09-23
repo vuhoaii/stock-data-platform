@@ -1,0 +1,7 @@
+apache-airflow==3.3.2
+apache-airflow-providers-standard
+pandas
+pyarrow
+psycopg2-binary
+python-dotenv
+vnstock

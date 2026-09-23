@@ -1,0 +1,45 @@
+# Secrets
+.env
+*.env
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+~$*
+
+# Logs
+*.log
+
+# Airflow runtime
+logs/
+airflow.db
+
+# Python cache/testing
+.pytest_cache/
+.mypy_cache/
+
+# Airflow environment / secrets
+.env.airflow
+
+# Generated datasets
+data/
+*.parquet
+
+# Airflow runtime files
+airflow/logs/
+airflow/__pycache__/
