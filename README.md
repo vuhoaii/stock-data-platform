@@ -240,6 +240,13 @@ These features feed the Power BI market dashboard.
 
 The Power BI report contains three analytical pages.
 
+The dashboard is also deployed on Power BI Service:
+
+[Open the Power BI Dashboard](https://app.powerbi.com/links/YH2z4H4x1H?ctid=e7572e92-7aee-4713-a3c4-ba64888ad45f&pbi_source=linkShare&bookmarkGuid=043c7186-9a0a-4caf-9eb5-3dfebb03eb82)
+
+> **Note:** This report is hosted under an organizational Power BI tenant.  
+> Access may require signing in with a Microsoft account and being granted permission to the report.
+
 ### 1. Market Overview
 
 Tracks price action and technical indicators for the six monitored stocks.
